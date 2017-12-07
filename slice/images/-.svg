@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="2px" viewBox="0 0 20 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="20 1.9996 20 0.4006 0.0003 0.4006 0.0003 1.9996 20 1.9996"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M19.2003,0.4006 L0.7993,0.4006 C0.3583,0.4006 0.0003,0.7586 0.0003,1.2006 C0.0003,1.6416 0.3583,1.9996 0.7993,1.9996 L19.2003,1.9996 C19.6423,1.9996 20.0003,1.6416 20.0003,1.2006 C20.0003,0.7586 19.6423,0.4006 19.2003,0.4006" id="Fill-1" fill="#1DBFFF" opacity="0.799999952" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
